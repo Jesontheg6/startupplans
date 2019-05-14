@@ -37,4 +37,4 @@ export default compose(
 	firestoreConnect([
 		{collection: 'projects'}
 		])
-	)(Dashboard)
+)(Dashboard)
