@@ -23,6 +23,15 @@
   color: #61dafb;
 }
 
+.deleteButton {
+  visibility: hidden;
+  float: right;
+  margin: 5px;
+  font-size: 25px;
+  cursor: pointer;
+  color: red;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
